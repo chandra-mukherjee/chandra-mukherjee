@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandra-mukherjee&show_icons=true&locale=en" alt="chandra-mukherjee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandra-mukherjee&" alt="chandra-mukherjee" /></p>
+
+[![An image of @chandramukherjee2022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandramukherjee2022)](https://www.holopin.io/@chandramukherjee2022)
