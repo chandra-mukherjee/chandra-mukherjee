@@ -30,3 +30,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandra-mukherjee&show_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"height="155px" width="42%" alt="chandra-mukherjee" /></p>
 
 [![An image of @chandramukherjee2022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandramukherjee2022)](https://www.holopin.io/@chandramukherjee2022)
+
+
+## 🚀 Projects :keyboard:
+
+| 📌Topics |  📎Links |
+| :-: | :-: |
+| Random Password Generator | [@Live Demo!!](https://chandra-mukherjee.github.io/Password-Generator/) |
