@@ -37,3 +37,4 @@
 | 📌Topics |  📎Links |
 | :-: | :-: |
 | Random Password Generator | [@Live Demo!!](https://chandra-mukherjee.github.io/Password-Generator/) |
+| Instagram Clone | [@Live Demo!!](https://chandra-mukherjee.github.io/Instagram_clone/) |
