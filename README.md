@@ -120,6 +120,7 @@
   </p>
 
 
+## 📊 GitHub Stats:
 
 <p align="center">
   <a href="https://github.com/chandra-mukherjee">
@@ -129,6 +130,8 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chandra-mukherjee&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"height="192px" width="49.5%" alt="chandra-mukherjee" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandra-mukherjee&show_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"height="155px" width="42%" alt="chandra-mukherjee" /></p>
+
+<summary><h2>🏷️ Holopin Badges</h2></summary>
 
 [![An image of @chandramukherjee2022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandramukherjee2022)](https://www.holopin.io/@chandramukherjee2022)
 
