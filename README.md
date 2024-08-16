@@ -119,6 +119,14 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 
+  ## 🚀 Projects :keyboard:
+
+| 📌Topics |  📎Links |
+| :-: | :-: |
+| Random Password Generator | [@Live Demo!!](https://chandra-mukherjee.github.io/Password-Generator/) |
+| Instagram Clone | [@Live Demo!!](https://chandra-mukherjee.github.io/Instagram_clone/) |
+
+
 
 ## 📊 GitHub Stats:
 
@@ -135,10 +143,4 @@
 
 [![An image of @chandramukherjee2022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandramukherjee2022)](https://www.holopin.io/@chandramukherjee2022)
 
-
-## 🚀 Projects :keyboard:
-
-| 📌Topics |  📎Links |
-| :-: | :-: |
-| Random Password Generator | [@Live Demo!!](https://chandra-mukherjee.github.io/Password-Generator/) |
-| Instagram Clone | [@Live Demo!!](https://chandra-mukherjee.github.io/Instagram_clone/) |
+<h1 align="center">Show some ❤ by starring some of the repositories!🌠</h1>
