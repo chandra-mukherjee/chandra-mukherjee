@@ -1,3 +1,8 @@
+<div align="center">
+<img src ="https://media0.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.webp?cid=ecf05e47dsau58epk1vomsi46upoffy0cdmw3asihycm9obj&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="600" height="300" />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Chandra Mukherjee</h1>
 <h3 align="center">CSE undergraduate , Web 3.0 Enthusiast</h3>
 
