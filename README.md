@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandra-mukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="chandra-mukherjee" /> </p>
 
-- 🌱 I’m currently learning **Node.js,gatsby,AWS,ReactNative,Linux**
+- 🌱 I’m currently learning **Node.js,gatsby,ReactNative,Linux**
 
-- 👯 I’m looking to collaborate on **DSA,Problem-solving**
+- 👯 I’m looking to collaborate on **DSA,Problem-solving,MernStack and Python projects**
 
-- 💬 Ask me about **JAVA,Javascript,C++,DSA**
+- 💬 Ask me about **JAVA,Javascript,C++,DSA,Mern Stack**
 
 - 📫 How to reach me **chandramukherjee775@gmail.com**
 
