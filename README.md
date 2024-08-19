@@ -3,8 +3,8 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Chandra Mukherjee</h1>
-<h3 align="center">CSE undergraduate , Web 3.0 Enthusiast</h3>
+<h1 align="center">Heya Fellaz , I'm Chandra Mukherjee <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28</h1>
+<h3 align="center">A passionate Full Stack Developer👩🏻‍💻 || AI-ML Enthusiast🎮🕹️👾 || 🌱Open-Source intermediate from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandra-mukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="chandra-mukherjee" /> </p>
 
