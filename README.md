@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **DSA,Problem-solving,MernStack and Python projects**
 
-- 💬 Ask me about **JAVA,Javascript,C++,DSA,Mern Stack**
+- 💬 Ask me about": **JAVA,Javascript,C++,DSA,Mern Stack**
 
-- 📫 How to reach me **chandramukherjee775@gmail.com**
+- 📫 How to reach me:**chandramukherjee775@gmail.com**
 
-- ⚡ Fun fact **A full time writer,part time coder**
+- ⚡ Fun fact:**A full time writer,part time coder**
 
 ## 🌐 Connect with me:
 <a href="https://www.instagram.com/_aurora.polaris6__/" target="blank"><img align="center" src="instagram.png" alt="_aurora.polaris6__" height="30" width="30" />&nbsp;</a>
