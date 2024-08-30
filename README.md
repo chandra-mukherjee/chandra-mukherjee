@@ -1,5 +1,5 @@
 <div align="center">
-<img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFiam5qYWtnbml6OHgyemEwZnp6bWQ4YzlqaGlxbDMwc3Nzc2E5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/megheYiPiRKKr6cXQp/giphy.webp" width="600" height="350" />
+<img align="center" alt="coding" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="600" height="350">
 </div>
 
 
