@@ -5,7 +5,8 @@
 
 <h1 align="center">Heya Fellaz , I'm Chandra Mukherjee <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%2336BCF7FF&vCenter=true&lines=Software+Engineer;Tech+Enthusiast;Developer+Advocate)](https://git.io/typing-svg)
+<h3 align="center">A passionate Full Stack Developer || 💻Coding Enthusiast || 🌱Open-Source intermediate from India</h3>
+
 
  <h1 align="left">💫 About Me: </h1>
 
