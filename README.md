@@ -9,6 +9,7 @@
 
 
  <h1 align="left">💫 About Me: </h1>
+ <img align="right" alt="Coding" width="500" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZsYm55bnBkcG5qa3lsczgxMzVhdnY2cDFyNWJ2ZG0zZGZ0OWh1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif">
 
 <h3>Profile Visits</h3>
 
