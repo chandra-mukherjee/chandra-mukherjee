@@ -9,9 +9,7 @@
 
 
  <h1 align="left">💫 About Me: </h1>
-<img align="right" alt="Coding" width="500" height="300" src="https://media3.giphy.com/media/9mf6jvRks7viuKgCWt/source.gif">
-
-<h3>Profile Visits</h3>
+<img src="https://komarev.com/ghpvc/?username=chandra-mukherjee&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="chandra-mukherjee" />
 
 ![Visitor Count](https://profile-counter.glitch.me/chandra-mukherjee/count.svg)
 - 🌱 I’m currently learning **Node.js,gatsby,ReactNative,Linux**
