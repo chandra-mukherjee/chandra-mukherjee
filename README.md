@@ -6,7 +6,6 @@
 
 <h3 align="center">A passionate Full Stack Developer || 💻Coding Enthusiast || 🌱Open-Source intermediate from India</h3>
 
-
  <h1 align="left">💫 About Me: </h1>
 <img src="https://komarev.com/ghpvc/?username=chandra-mukherjee&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="chandra-mukherjee" />
 
