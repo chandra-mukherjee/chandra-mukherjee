@@ -140,7 +140,6 @@
 | Instagram Clone | [@Live Demo!!](https://chandra-mukherjee.github.io/Instagram_clone/) |
 
 
-
 ## 📊 Commit-Tastic:
 
 <p align="center">
