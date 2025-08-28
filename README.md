@@ -19,8 +19,7 @@
 - 📫 How to reach me:**chandramukherjee775@gmail.com**
 
 - ⚡ Fun fact:**A full time writer,part time coder**
-- 
-
+  
 
 ## 🌐 Socials:
 <a href="https://www.instagram.com/_aurora.polaris6__/" target="blank"><img align="center" src="instagram.png" alt="_aurora.polaris6__" height="30" width="30" />&nbsp;</a>
